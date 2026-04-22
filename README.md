@@ -26,8 +26,7 @@
 - ![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=flat-square&logo=harmonyos&logoColor=white)
  ![ArkTS](https://img.shields.io/badge/ArkTS-3178C6?style=flat-square&logo=typescript&logoColor=white)
  ![ArkUI](https://img.shields.io/badge/ArkUI-0078D7?style=flat-square&logo=harmonyos&logoColor=white)
- ![ArkData](https://img.shields.io/badge/ArkData-0078D7?style=flat-square&logo=harmonyos&logoColor=white)
-<img src="https://csdnimg.cn/release/devpress-cangjie/public/img/logo.81433277.png" width=40 height=auto align="center">
+ ![ArkData](https://img.shields.io/badge/ArkData-0078D7?style=flat-square&logo=harmonyos&logoColor=white)  <img src="https://csdnimg.cn/release/devpress-cangjie/public/img/logo.81433277.png" width="40" height="auto" style="vertical-align: -1px;">
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
