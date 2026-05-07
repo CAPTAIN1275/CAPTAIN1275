@@ -5,6 +5,12 @@
   <img src="https://count.getloli.com/@CAPTAIN1275?name=CAPTAIN1275&theme=miku&padding=7&offset=0&align=center&scale=0.4&pixelated=1&darkmode=auto" alt="访客计数" />
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D7&width=600&lines=let+hi%3A+string+%3D+%22Hello+HarmonyOS%22%3B+待到山花烂漫时%3B+//+CAPTAIN+1275&center=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ### 关于我
