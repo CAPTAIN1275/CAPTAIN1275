@@ -1,7 +1,9 @@
 ## <img src="https://q1.qlogo.cn/g?b=qq&nk=1510006135&s=640" width="40" height="40" style="border-radius: 50%; vertical-align: middle;"> CAPTAIN 1275
 
 > 华为开发者联盟社区牛人认证 | 2025 HarmonyOS创新赛 AI智能创新奖
-- ![CAPTAIN1275](https://count.getloli.com/@CAPTAIN1275?theme=miku)
+<div align="center">
+  <img src="https://count.getloli.com/@CAPTAIN1275?name=CAPTAIN1275&theme=miku&padding=7&offset=0&align=center&scale=0.4&pixelated=1&darkmode=auto" alt="访客计数" />
+</div>
 ---
 
 ### 关于我
