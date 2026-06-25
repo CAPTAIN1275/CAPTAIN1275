@@ -23,6 +23,9 @@
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/-华为开发者联盟社区牛人-FF0000?style=flat-square&logo=Huawei&logoColor=white"/> | 华为开发者联盟社区牛人认证 |
 | <img src="https://img.shields.io/badge/-2025 HarmonyOS创新赛 AI智能创新奖-0078D7?style=flat-square&logo=HarmonyOS&logoColor=white"/> | 2025 HarmonyOS创新赛 AI智能创新奖 |
+| <img src="https://img.shields.io/badge/-央视新闻《鸿蒙脑洞大开麦》-FF0000?style=flat-square&"/> |央视新闻《鸿蒙脑洞大开麦》开发者代表 |
+| <img src="https://img.shields.io/badge/-HDC 2026鸿蒙星光大道展示应用-FF0000?style=flat-square&logo=Huawei&logoColor=white"/> | LDP FLY EFB在星光大道展出 |
+| <img src="https://img.shields.io/badge/-HDC 2026 HarmonyOS学生公开课-0078D7?style=flat-square&logo=huawei&logoColor=white"/> | HDC 2026 HarmonyOS学生公开课学生开发者分享代表 |
 
 ---
 
@@ -33,7 +36,6 @@
  ![ArkUI](https://img.shields.io/badge/ArkUI-0078D7?style=flat-square&logo=harmonyos&logoColor=white)
  ![ArkData](https://img.shields.io/badge/ArkData-0078D7?style=flat-square&logo=harmonyos&logoColor=white)
 <img src="https://csdnimg.cn/release/devpress-cangjie/public/img/logo.81433277.png" width=40 height=auto align="center">
-
  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -47,10 +49,12 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
  ![Alibaba Cloud Linux](https://img.shields.io/badge/Alibaba%20Cloud%20Linux-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-3C5DFF?style=flat-square&logo=deepseek&logoColor=white)
   
 - **AI：**
  ![鸿蒙智能体](https://img.shields.io/badge/鸿蒙智能体-00A86B?style=flat-square&logo=harmonyos&logoColor=white)
  ![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6600?style=flat-square&logo=openai&logoColor=white)
+ ![DeepSeek](https://img.shields.io/badge/DeepSeek-3C5DFF?style=flat-square&logo=deepseek&logoColor=white)
 
 - **其他：**
  ![手绘](https://img.shields.io/badge/动漫-手绘-FFB6C1?style=flat-square)
@@ -80,6 +84,9 @@
 ### 统计
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAPTAIN1275&layout=compact&theme=radical)](https://github.com/CAPTAIN1275)
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/CAPTAIN1275/CAPTAIN1275.svg?variant=adaptive)](https://starchart.cc/CAPTAIN1275/CAPTAIN1275)
 
 ---
 
